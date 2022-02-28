@@ -11,4 +11,4 @@ Attualmente ci occupiamo del mondo di FiveM, ma sviluppando anche applicazioni e
 Non abbiamo un sito web ma abbiamo un server [discord](https://discord.gg/UxsZeYFz7q) dove pubblichiamo tutte le informazioni dei nostri software e servizi che offriamo.
 
 ## Avete altre domande?
-Entrate nel nostro server [Discord](https://discord.gg/UxsZeYFz7q) ed aprite un ticket per farci qualsiasi domanda!
+Entrate nel nostro server [discord](https://discord.gg/UxsZeYFz7q) ed aprite un ticket per farci qualsiasi domanda!
